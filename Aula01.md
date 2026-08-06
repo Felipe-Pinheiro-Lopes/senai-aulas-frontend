@@ -89,7 +89,8 @@ flowchart TD
 
 A Atividade 01 foi desenvolvida no repositório abaixo, que contém um jogo point-and-click em Vanilla JS:
 
-🔗 **https://github.com/Felipe-Pinheiro-Lopes/senai-projeto-vanilla**
+🔗 **Repositório:** https://github.com/Felipe-Pinheiro-Lopes/senai-projeto-vanilla
+🌐 **Deploy (Vercel):** https://senai-projeto-vanilla-mu.vercel.app/
 
 Esse repositório reúne o projeto prático da disciplina, utilizando HTML, CSS e JavaScript puros (sem frameworks), com deploy realizado via Vercel.
 
