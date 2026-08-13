@@ -80,9 +80,10 @@ Em vez disso, ele copiará todos os arquivos de configuração e as dependência
 
 Você não precisa usar `eject`. O conjunto de funcionalidades disponível é adequado para implantações pequenas e médias, e você não deve se sentir obrigado a usá-lo.
 
-## 🚀 Deploy
+## 🚀 Deploy & Repositório
 
 🔗 [https://projeto-react-felipe-pl.vercel.app/](https://projeto-react-felipe-pl.vercel.app/)
+🔗 [https://github.com/Felipe-Pinheiro-Lopes/projeto-react.git](https://github.com/Felipe-Pinheiro-Lopes/projeto-react.git)
 
 ## 🧩 Estrutura do Código
 
