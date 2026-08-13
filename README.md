@@ -129,4 +129,10 @@ Ao final do semestre, você será capaz de:
 
 ## 📂 Aulas
 
-- [Aula 1 - Vanilla JS](Aula01.md)
+- [Aula 1 - Vanilla JS](Aulas/Aula01.md)
+- [Aula 2 - Configuração do Ambiente de Desenvolvimento](Aulas/Aula02.md)
+
+## 🧪 Atividades
+
+- [Atividade 01 - Projeto em Vanilla JS (Escape Misterioso)](Atividades/Atividade01.md)
+- [Atividade 02 - Projeto em React (Sapo na Estrada)](Atividades/Atividade02.md)

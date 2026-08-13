@@ -19,7 +19,7 @@
 
 ## 📝 Resumo
 
-A primeira aula foi dedicada à **apresentação da disciplina** e à **contextualização** do desenvolvimento Front-end, estabelecendo a base conceitual para o semestre. O destaque prático foi o **Vanilla JS**, tema central da Atividade 01.
+A primeira aula foi dedicada à **apresentação da disciplina** e à **contextualização** do desenvolvimento Front-end, estabelecendo a base conceitual para o semestre. O destaque prático foi o **Vanilla JS**, tema central da Atividade 01 — a base pura de JavaScript sobre a qual todos os frameworks (React, Vue, Angular) são construídos.
 
 ## 📚 Tópicos Abordados
 
@@ -28,14 +28,7 @@ A primeira aula foi dedicada à **apresentação da disciplina** e à **contextu
 - Apresentação da turma (expectativas, experiências e hobbies) via Padlet.
 
 ### 2. 📋 Plano de ensino
-Foram apresentados os elementos do plano de aulas:
-- Objetivos de aprendizagem;
-- Ementa;
-- Conteúdo programático;
-- Metodologia de ensino;
-- Recursos didáticos;
-- Avaliação;
-- Bibliografia.
+- Objetivos de aprendizagem, ementa, conteúdo programático, metodologia, recursos didáticos, avaliação e bibliografia.
 
 ### 3. 🧭 Contexto da disciplina
 - O Front-end é um **requisito estratégico** para a competitividade empresarial.
@@ -44,13 +37,13 @@ Foram apresentados os elementos do plano de aulas:
 
 ### 4. 💻 O que é Desenvolvimento Front-end?
 - É a camada da aplicação com a qual o **usuário interage diretamente**.
-- Responsável pela criação de interfaces, organização visual, experiência do usuário (UX) e comunicação com os sistemas de processamento de dados.
+- Responsável pela criação de interfaces, organização visual, UX e comunicação com os sistemas de processamento de dados.
 - Conceitos relacionados: escopo, prototipação, UX/UI, arquitetura de um site e versionamento/deploy.
 
 ### 5. 🟨 Introdução ao JavaScript (Vanilla JS)
 - **JavaScript:** linguagem de script interpretada, essencial no front-end.
 - **Vanilla JS:** JavaScript puro, sem dependências externas, base de todas as abstrações.
-- **Importância:** manipulação de páginas, comunicação com servidores e lógica de interface.
+- **Importância:** manipulação de páginas, comunicação com servidores e lógica de interface — o alicerce para aprender qualquer framework.
 
 ### 6. 🎯 O que estudaremos e objetivos
 - Ambiente de desenvolvimento, Frameworks CSS e Front-end, componentes, boas práticas e deploy.
@@ -66,7 +59,7 @@ Foram apresentados os elementos do plano de aulas:
 Criar um projeto em **Vanilla JS** (HTML, CSS e JavaScript), conectar o IDE ao GitHub e realizar o **deploy** da aplicação pela ferramenta **Vercel**.
 
 > [!NOTE]
-> A Atividade 01 foi desenvolvida como um jogo *point-and-click* em JavaScript puro, publicado na Vercel.
+> A Atividade 01 foi desenvolvida como um jogo *point-and-click* em JavaScript puro (**"Escape Misterioso"**), publicado na Vercel. O relatório/resumo da atividade está disponível no arquivo [`Atividade01.md`](../Atividades/Atividade01.md).
 
 ### Atividade 02
 - Formar grupos de 3 a 5 integrantes (mesma composição para as atividades semanais).
@@ -87,12 +80,12 @@ flowchart TD
 
 ## 🔗 Repositório de Exemplo (Atividade 01)
 
-A Atividade 01 foi desenvolvida no repositório abaixo, que contém um jogo point-and-click em Vanilla JS:
+A Atividade 01 foi desenvolvida no repositório abaixo, que contém o jogo *point-and-click* **"Escape Misterioso"** em Vanilla JS (HTML, CSS e JavaScript puros, sem frameworks):
 
 🔗 **Repositório:** https://github.com/Felipe-Pinheiro-Lopes/senai-projeto-vanilla
 🌐 **Deploy (Vercel):** https://senai-projeto-vanilla-mu.vercel.app/
 
-Esse repositório reúne o projeto prático da disciplina, utilizando HTML, CSS e JavaScript puros (sem frameworks), com deploy realizado via Vercel.
+Esse repositório reúne o projeto prático da disciplina, utilizando HTML, CSS e JavaScript puros (sem frameworks), com deploy realizado via Vercel. O resumo da atividade está em [`Atividade01.md`](../Atividades/Atividade01.md).
 
 ## ✅ Checklist da Aula
 
@@ -101,4 +94,5 @@ Esse repositório reúne o projeto prático da disciplina, utilizando HTML, CSS 
 - [x] Entender o conceito de Front-end e Vanilla JS
 - [x] Concluir a Atividade 01 (projeto + deploy na Vercel)
 - [x] Criar o resumo da Aula 1 - Vanilla JS (este arquivo)
+- [x] Gerar o relatório da Atividade 01 em Markdown ([`Atividade01.md`](../Atividades/Atividade01.md))
 - [ ] Formar grupo e iniciar a Atividade 02 (relatório de framework)
