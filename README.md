@@ -131,8 +131,10 @@ Ao final do semestre, você será capaz de:
 
 - [Aula 1 - Vanilla JS](Aulas/Aula01.md)
 - [Aula 2 - Configuração do Ambiente de Desenvolvimento](Aulas/Aula02.md)
+- [Aula 3 - Projetos com Frameworks Front-end](Aulas/Aula03.md)
 
 ## 🧪 Atividades
 
 - [Atividade 01 - Projeto em Vanilla JS (Escape Misterioso)](Atividades/Atividade01.md)
 - [Atividade 02 - Projeto em React (Sapo na Estrada)](Atividades/Atividade02.md)
+- [Atividade 03 - Projetos com Frameworks Front-end (React, Vue, Angular e Next.js)](Atividades/Atividade03.md)
