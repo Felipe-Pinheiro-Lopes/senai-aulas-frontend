@@ -46,8 +46,8 @@ Os projetos foram criados a partir dos repositórios online (clonados localmente
 | # | Framework | Repositório (GitHub) | Deploy (Vercel) | Linguagem | Servidor de dev |
 | --- | --- | --- | --- | --- | --- |
 | 01 | ⚛️ React | [`projeto-react-01`](https://github.com/biancaciriloads/projeto-react-01) | ✅ [`projeto-react-01-three.vercel.app`](https://projeto-react-01-three.vercel.app) | JavaScript (JSX) | `npm start` → :3000 |
-| 02 | 💚 Vue | [`projeto-vue`](https://github.com/RickRazz0/projeto-vue) | ❌ pendente | TypeScript (SFC) | `npm run dev` (Vite) |
-| 03 | 🅰️ Angular | [`meu-app-angular`](https://github.com/Nickddb/meu-app-angular) | ❌ pendente | TypeScript | `ng serve` → :4200 |
+| 02 | 💚 Vue | [`projeto-vue`](https://github.com/RickRazz0/projeto-vue) | ✅ [`projeto-vue-vert.vercel.app`](https://projeto-vue-vert.vercel.app) | TypeScript (SFC) | `npm run dev` (Vite) |
+| 03 | 🅰️ Angular | [`meu-app-angular`](https://github.com/Nickddb/meu-app-angular) | ✅ [`meu-app-angular-omega.vercel.app`](https://meu-app-angular-omega.vercel.app) | TypeScript | `ng serve` → :4200 |
 | 04 | ▲ Next.js | [`projeto-next`](https://github.com/Felipe-Pinheiro-Lopes/projeto-next) | ✅ [`projeto-next-nu.vercel.app`](https://projeto-next-nu.vercel.app) | TypeScript (App Router) | `npm run dev` → :3000 |
 
 > [!NOTE]

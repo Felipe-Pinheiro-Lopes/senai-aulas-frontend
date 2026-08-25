@@ -95,8 +95,8 @@ Os quatro projetos da Atividade 03 foram criados a partir dos repositórios clon
 | Framework | Repositório (GitHub) | Deploy (Vercel) | Comando de execução |
 | --- | --- | --- | --- |
 | ⚛️ React | [`projeto-react-01`](https://github.com/biancaciriloads/projeto-react-01) | ✅ [`projeto-react-01-three.vercel.app`](https://projeto-react-01-three.vercel.app) | `npm start` (porta 3000) |
-| 💚 Vue | [`projeto-vue`](https://github.com/RickRazz0/projeto-vue) | ❌ pendente | `npm run dev` (Vite) |
-| 🅰️ Angular | [`meu-app-angular`](https://github.com/Nickddb/meu-app-angular) | ❌ pendente | `ng serve` (porta 4200) |
+| 💚 Vue | [`projeto-vue`](https://github.com/RickRazz0/projeto-vue) | ✅ [`projeto-vue-vert.vercel.app`](https://projeto-vue-vert.vercel.app) | `npm run dev` (Vite) |
+| 🅰️ Angular | [`meu-app-angular`](https://github.com/Nickddb/meu-app-angular) | ✅ [`meu-app-angular-omega.vercel.app`](https://meu-app-angular-omega.vercel.app) | `ng serve` (porta 4200) |
 | ▲ Next.js | [`projeto-next`](https://github.com/Felipe-Pinheiro-Lopes/projeto-next) | ✅ [`projeto-next-nu.vercel.app`](https://projeto-next-nu.vercel.app) | `npm run dev` (porta 3000) |
 
 Esses repositórios reúnem os projetos práticos da disciplina, um em cada framework, com versionamento Git/GitHub e deploy previsto na Vercel. Os projetos também foram clonados localmente em `C:\Users\Felipe Lopes\Desktop\frontend-atividades`. O resumo da atividade está em [`Atividade03.md`](../Atividades/Atividade03.md).
