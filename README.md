@@ -142,6 +142,9 @@ Ao final do semestre, você será capaz de:
 ### Aula 4 — Integração Front-end com APIs
 - [📕 Resumo da Aula 4](Aulas/Aula%204/Aula04.md)
 
+### Aula 5 — Criando APIs para o Front-end
+- [📒 Resumo da Aula 5](Aulas/Aula%205/Aula05.md)
+
 ## 🧪 Atividades
 
 ### Aula 1
@@ -156,3 +159,6 @@ Ao final do semestre, você será capaz de:
 ### Aula 4
 - [Atividade 4-1 - Comparação de 10 Repositórios que Consomem APIs Públicas](Atividades/Aula%204/Atividade-4-1.md)
 - [Atividade 4-2 - Projeto Full-Stack (API Express + Frontend Next.js)](Atividades/Aula%204/Atividade-4-2.md)
+
+### Aula 5
+- [Atividade 5-2 - CRUD de Notas (API Express + Frontend Next.js)](Atividades/Aula%205/Atividade-5-2.md)
