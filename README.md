@@ -22,6 +22,7 @@ Repositório principal das atividades da disciplina **Frameworks Front-end** (SE
 9. [Dica Importante](#-dica-importante)
 10. [Referências](#-referências)
 11. [Aulas](#-aulas)
+12. [Atividades](#-atividades)
 
 ---
 
@@ -129,12 +130,29 @@ Ao final do semestre, você será capaz de:
 
 ## 📂 Aulas
 
-- [Aula 1 - Vanilla JS](Aulas/Aula01.md)
-- [Aula 2 - Configuração do Ambiente de Desenvolvimento](Aulas/Aula02.md)
-- [Aula 3 - Projetos com Frameworks Front-end](Aulas/Aula03.md)
+### Aula 1 — Vanilla JS
+- [📘 Resumo da Aula 1](Aulas/Aula%201/Aula01.md)
+
+### Aula 2 — Configuração do Ambiente de Desenvolvimento
+- [📗 Resumo da Aula 2](Aulas/Aula%202/Aula02.md)
+
+### Aula 3 — Projetos com Frameworks Front-end
+- [📙 Resumo da Aula 3](Aulas/Aula%203/Aula03.md)
+
+### Aula 4 — Integração Front-end com APIs
+- [📕 Resumo da Aula 4](Aulas/Aula%204/Aula04.md)
 
 ## 🧪 Atividades
 
-- [Atividade 01 - Projeto em Vanilla JS (Escape Misterioso)](Atividades/Atividade01.md)
-- [Atividade 02 - Projeto em React (Sapo na Estrada)](Atividades/Atividade02.md)
-- [Atividade 03 - Projetos com Frameworks Front-end (React, Vue, Angular e Next.js)](Atividades/Atividade03.md)
+### Aula 1
+- [Atividade 1-1 - Projeto em Vanilla JS (Escape Misterioso)](Atividades/Aula%201/Atividade-1-1.md)
+
+### Aula 2
+- [Atividade 2-1 - Projeto em React (Sapo na Estrada)](Atividades/Aula%202/Atividade-2-1.md)
+
+### Aula 3
+- [Atividade 3-1 - Projetos com Frameworks Front-end (React, Vue, Angular e Next.js)](Atividades/Aula%203/Atividade-3-1.md)
+
+### Aula 4
+- [Atividade 4-1 - Comparação de 10 Repositórios que Consomem APIs Públicas](Atividades/Aula%204/Atividade-4-1.md)
+- [Atividade 4-2 - Projeto Full-Stack (API Express + Frontend Next.js)](Atividades/Aula%204/Atividade-4-2.md)
