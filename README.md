@@ -145,6 +145,12 @@ Ao final do semestre, você será capaz de:
 ### Aula 5 — Criando APIs para o Front-end
 - [📒 Resumo da Aula 5](Aulas/Aula%205/Aula05.md)
 
+### Aula 6 — Projetos Front-End
+- 📗 Resumo da Aula 6 *(em elaboração)*
+
+### Aula 7 — Frameworks CSS
+- [🎨 Resumo da Aula 7](Aulas/Aula%207/Aula07.md)
+
 ## 🧪 Atividades
 
 ### Aula 1
@@ -162,3 +168,7 @@ Ao final do semestre, você será capaz de:
 
 ### Aula 5
 - [Atividade 5-2 - CRUD de Notas (API Express + Frontend Next.js)](Atividades/Aula%205/Atividade-5-2.md)
+
+### Aula 7
+- [Atividade 7-1 - Estudo de Box Model & Flexbox (HTML & CSS Puro)](Atividades/Aula%207/Atividade-7-1.md)
+- [Atividade 7-2 - DevMetrics Dashboard (Tailwind CSS)](Atividades/Aula%207/Atividade-7-2.md)
